@@ -1,0 +1,6 @@
+dependencies:
+- name: mariadb
+  repository: https://github.com/adamoabiola1/Tastytreat.git
+  version: 7.10.4
+digest: [sha256: ************************]
+generated: "2023-03-19T14:45:47.816452704Z"
