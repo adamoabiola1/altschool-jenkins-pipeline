@@ -26,16 +26,22 @@
 ![Server Room](image4.png "output-4")
 <br>
 
-# 5. Test that the application is running, your default site should be welcome to nginx.
-
-# 7. update and upgrade the nodes then install helm chart to deploy your apps on the nodes. i.e myapp below
+# Use kubectl get nodes and kubectl get pods to view the state of your nodes and pods.
 ![Server Room](image5.png "output-5")
 <br>
-
 ![Server Room](image6.png "output-6")
 <br>
 
-![Server Room](image7.jpg "output-7")
+# 5. Test that the application is running, your default site should be welcome to nginx.
+
+# 7. update and upgrade the nodes then install helm chart to deploy your apps on the nodes. i.e myapp below
+![Server Room](image7.png "output-7")
+<br>
+
+![Server Room](image8.png "output-8")
+<br>
+
+![Server Room](image9.jpg "output-9")
 <br>
 
 ## 6. Destroy infrastructure using terraform destroy --auto-approve.
